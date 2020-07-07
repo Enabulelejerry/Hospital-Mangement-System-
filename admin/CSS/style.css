@@ -1,0 +1,39 @@
+ body {
+ 	overflow-x: hidden;
+ }
+
+
+
+ /* top navigation styles */
+
+ .navbar-nav li a {
+ 	color: white !important;
+ }
+
+
+ .navbar-nav li a {
+ 	margin-right: 100px;
+ }
+
+ .dropdown-menu a:hover {
+ 	background: black !important;
+ }
+
+
+ /* dashboard styles */
+
+ .huge {
+ 	font-size: 40px;
+ 	line-height: normal;
+
+ }
+
+
+
+ .widget-content-expanded {
+ 	font-size: 15px;
+ }
+
+ .widget-content-expanded span {
+ 	font-weight: 600;
+ }

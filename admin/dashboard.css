@@ -1,0 +1,65 @@
+body {
+    overflow-x: hidden;
+}
+
+
+.section-2 {
+    margin-top: 5%;
+}
+
+.card-primary .card-header {
+    background-color: #3498DB;
+}
+
+
+.fas {
+    color: white;
+}
+
+.huge {
+    position: relative;
+    font-size: 3rem;
+    color: white;
+    bottom: 10px;
+}
+
+.text-md-right .text {
+    position: relative;
+    bottom: 10px;
+    font-weight: 600;
+    color: white;
+    font-size: 17px;
+}
+
+.card-footer-1 a {
+    color: #3498DB;
+}
+
+
+
+.card-success .card-header {
+    background-color: #52BE80;
+}
+
+.card-footer-2 a {
+    color: #52BE80;
+}
+
+
+
+
+.card-danger .card-header {
+    background-color: #E74C3C;
+}
+
+.card-footer-3 a {
+    color: #E74C3C;
+}
+
+.card-other .card-header {
+    background-color: #F4D03F;
+}
+
+.card-footer-4 a {
+    color: #F4D03F;
+}
